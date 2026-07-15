@@ -43,7 +43,7 @@ ollama pull qwen3:4b
 ## Setup
 
 ```bash
-git clone https://github.com/rony-codes/RAG-Ai-PDF.git
+git clone https://github.com/rony-codes/RAG-PDF.git
 cd <your-repo-folder>
 pip install -r requirements.txt
 ```
